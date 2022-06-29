@@ -3,7 +3,7 @@ name: all Build           //任务名称
 
 on:
   schedule:       //执行时间段
-    - cron: 0 * * * *          //0任何时间  15,45, 8-18
+
   push:         //合并到主分支
     branches:
       - master
