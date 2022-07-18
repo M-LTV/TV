@@ -14,7 +14,7 @@
     <TextView
         android:id="@+id/tvChannelNum"
         android:layout_width="60mm"
-        android:layout_height="50mm"
+        android:layout_height="60mm"
         android:ellipsize="marquee"
         android:gravity="center"
         android:marqueeRepeatLimit="marquee_forever"
@@ -23,7 +23,7 @@
         android:textSize="22mm" />
 
     <TextView
-        android:id="@+id/tvChannel"
+        android:id="@+id/tvChannelName"
         android:layout_width="0mm"
         android:layout_height="60mm"
         android:layout_weight="1"
